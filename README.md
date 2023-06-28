@@ -29,3 +29,6 @@ the optimized YOLOv8 model, I ran through my own video of me walking dogs.
 
 <img src="https://github.com/CongSheng/ChipChallenge/blob/0434809d8809ebb385f9d92a234a28abc3e80cc3/images/primprim_snip.png" width="400" alt="Walking dog with YOLOv8">
 <center>Fig 1: Running object detection on a video of me walking dogs from the local animal shelter.</center>
+
+<!-- <img src="https://github.com/CongSheng/ChipChallenge/blob/0434809d8809ebb385f9d92a234a28abc3e80cc3/images/primprim_snip.png" width="400" alt="Walking dog with YOLOv8 - Failed example">
+<center>Fig 1: At the same time, one has to admit that even SOTA classifier has its bad days.</center> -->
