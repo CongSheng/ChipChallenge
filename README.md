@@ -23,3 +23,6 @@ diffusion voice conversion, quantization-aware training and etc.
 The YOLOv8 notebook requires the use of `nccf` and `onnx`, and the packages can
 be downloaded simply by running the notebook. Alternatively, the packages can 
 be downloaded through pip install in the terminal. 
+
+After which, running through the notebook is a breeze. Just to further try out 
+the optimized YOLOv8 model, I ran through my own video of me walking dogs.
