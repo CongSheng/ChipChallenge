@@ -27,7 +27,7 @@ be downloaded through pip install in the terminal.
 After which, running through the notebook is a breeze. Just to further try out 
 the optimized YOLOv8 model, I ran through my own videos of some cats.
 
-<img src="https://github.com/CongSheng/ChipChallenge/blob/0434809d8809ebb385f9d92a234a28abc3e80cc3/images/primprim_snip.png" width="400" alt="Adorable cat">
+<img src="https://github.com/CongSheng/ChipChallenge/blob/d3f80374e65c0a50f80f2f0e7d17ad5a457d9acd/images/cat_as_cat.png" width="400" alt="Adorable cat">
 <center>Fig 1: Running object detection on a video of me interacting with a cat.</center>
 
 <img src="https://github.com/CongSheng/ChipChallenge/blob/b53de9131fb555c4c361d34bcf671b48f49df802/images/cat_as_bear.PNG" width="400" alt="Cat classified as bear - Failed example">
