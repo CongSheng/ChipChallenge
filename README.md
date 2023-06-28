@@ -25,10 +25,10 @@ be downloaded simply by running the notebook. Alternatively, the packages can
 be downloaded through pip install in the terminal. 
 
 After which, running through the notebook is a breeze. Just to further try out 
-the optimized YOLOv8 model, I ran through my own video of me walking dogs.
+the optimized YOLOv8 model, I ran through my own videos of some cats.
 
-<img src="https://github.com/CongSheng/ChipChallenge/blob/0434809d8809ebb385f9d92a234a28abc3e80cc3/images/primprim_snip.png" width="400" alt="Walking dog with YOLOv8">
-<center>Fig 1: Running object detection on a video of me walking dogs from the local animal shelter.</center>
+<img src="https://github.com/CongSheng/ChipChallenge/blob/0434809d8809ebb385f9d92a234a28abc3e80cc3/images/primprim_snip.png" width="400" alt="Adorable cat">
+<center>Fig 1: Running object detection on a video of me interacting with a cat.</center>
 
-<img src="https://github.com/CongSheng/ChipChallenge/blob/4de4cd2ef2a51358ceafcaf80bc9eace235e1449/images/not_so_good_detection.PNG" width="400" alt="Walking dog with YOLOv8 - Failed example">
+<img src="https://github.com/CongSheng/ChipChallenge/blob/b53de9131fb555c4c361d34bcf671b48f49df802/images/cat_as_bear.PNG" width="400" alt="Cat classified as bear - Failed example">
 <center>Fig 2: At the same time, one has to admit that even SOTA classifier has its bad days.</center>
